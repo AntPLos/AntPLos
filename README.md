@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Hegel_by_Schlesinger_1831.jpg" alt="G.W.F. Hegel" height="200px" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/0/08/Hegel_by_Schlesinger_1831.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jakob_Schlesinger_-_Hegel_1831.jpg/960px-Jakob_Schlesinger_-_Hegel_1831.jpg)" alt="G.W.F. Hegel" height="200px" />
 </p>
