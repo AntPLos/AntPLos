@@ -2,6 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=AntPLos&color=7aa2f7&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
 </p>
 
+<p align="center">Linguagens selecionadas</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pascal-005C9E?style=for-the-badge&logo=pascal&logoColor=white" alt="Pascal" />
+  <img src="https://img.shields.io/badge/Turbo_Pascal-000080?style=for-the-badge&logo=dosbox&logoColor=FEE11A" alt="Turbo Pascal" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntPLos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntPLos&layout=compact&theme=tokyonight&hide_border=true&hide=javascript,html,css" height="180px" />
@@ -26,4 +33,8 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AntPLos&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Hegel_by_Schlesinger_1831.jpg" alt="G.W.F. Hegel" height="200px" />
 </p>
