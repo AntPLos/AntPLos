@@ -40,4 +40,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jakob_Schlesinger_-_Hegel_1831.jpg/960px-Jakob_Schlesinger_-_Hegel_1831.jpg" alt="G.W.F. Hegel" height="200px" />
+  <p align="center">
+  <i>"Nothing great in the World has been accomplished without passion."</i>
+</p>
 </p>
