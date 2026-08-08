@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">Linguagens selecionadas</p>
+
 <p align="center">
   <a href="https://github.com/AntPLos">
     <img src="https://skillicons.dev/icons?i=pascal,julia" alt="Linguagens" />
@@ -38,9 +39,60 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AntPLos&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
 </p>
 
+
+<!-- HEGEL -->
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jakob_Schlesinger_-_Hegel_1831.jpg/960px-Jakob_Schlesinger_-_Hegel_1831.jpg" alt="G.W.F. Hegel" height="200px" />
-  <p align="center">
-  <i>"Nothing great in the World has been accomplished without passion."</i>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jakob_Schlesinger_-_Hegel_1831.jpg/960px-Jakob_Schlesinger_-_Hegel_1831.jpg"
+       alt="G.W.F. Hegel"
+       height="200px" />
 </p>
+
+<p align="center">
+  <i>"Nothing great in the World has been accomplished without passion."</i>
+  <br>
+  <b>— G.W.F. Hegel</b>
+</p>
+
+
+<!-- NIETZSCHE -->
+
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nietzsche1882.jpg"
+       alt="Friedrich Nietzsche"
+       height="200px" />
+</p>
+
+<p align="center">
+  <i>"One must still have chaos in oneself to be able to give birth to a dancing star."</i>
+  <br>
+  <b>— Friedrich Nietzsche</b>
+</p>
+
+
+<!-- DELEUZE -->
+
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gilles_Deleuze.jpg"
+       alt="Gilles Deleuze"
+       height="200px" />
+</p>
+
+<p align="center">
+  <i>"To think is to create — there is no other creation."</i>
+  <br>
+  <b>— Gilles Deleuze</b>
+</p>
+
+
+<!-- FRASE FINAL -->
+
+<br>
+
+<p align="center">
+  <font size="5">
+    凡事皆有裂痕，那是光照进来的地方。
+  </font>
+  <br>
+  <i>— Leonard Cohen</i>
 </p>
