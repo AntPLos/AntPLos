@@ -39,13 +39,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AntPLos&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
 </p>
 
-
-<!-- HEGEL -->
-
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jakob_Schlesinger_-_Hegel_1831.jpg/960px-Jakob_Schlesinger_-_Hegel_1831.jpg"
-       alt="G.W.F. Hegel"
-       height="200px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jakob_Schlesinger_-_Hegel_1831.jpg/960px-Jakob_Schlesinger_-_Hegel_1831.jpg" alt="G.W.F. Hegel" height="200px" />
 </p>
 
 <p align="center">
@@ -54,13 +49,10 @@
   <b>— G.W.F. Hegel</b>
 </p>
 
-
-<!-- NIETZSCHE -->
+<br>
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nietzsche1882.jpg"
-       alt="Friedrich Nietzsche"
-       height="200px" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Nietzsche1882.jpg" alt="Friedrich Nietzsche" height="200px" />
 </p>
 
 <p align="center">
@@ -69,13 +61,10 @@
   <b>— Friedrich Nietzsche</b>
 </p>
 
-
-<!-- DELEUZE -->
+<br>
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gilles_Deleuze.jpg"
-       alt="Gilles Deleuze"
-       height="200px" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/AVT_Gilles-Deleuze_6342.webp" alt="Gilles Deleuze" height="200px" />
 </p>
 
 <p align="center">
@@ -83,6 +72,7 @@
   <br>
   <b>— Gilles Deleuze</b>
 </p>
+
 
 
 <!-- FRASE FINAL -->
